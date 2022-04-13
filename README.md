@@ -1,2 +1,12 @@
 # power.js
-An awesome JS library to give power to all your elements
+
+No more weak HTML elements.
+Let their true power course through your webpage.
+
+## Usage
+
+Simply import the script
+```js
+  <script src="https://quixt.github.io/power.js></script>
+```
+And watch your page **shake** with its true power.
