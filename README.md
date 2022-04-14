@@ -1,8 +1,9 @@
 <h1>power.js</h1>
 
-No more weak HTML elements.
-Let their true power course through your webpage.
+<p>No more weak HTML elements.<br>
+Let their true power course through your webpage.<br>
 See an example <a href="https://quixt.github.io/examples/powerjs">here</a>.
+</p>
 
 <h1>Usage</h1>
 
